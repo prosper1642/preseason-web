@@ -8,7 +8,7 @@ TODO - What is the problem? And where is the challenge?
 TODO - How have you solved the problem?
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+none required
 
 ## Usage
 TODO - How does it work?
